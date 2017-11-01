@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+    position: fixed;
+    text-align: right;
+}
+
+ul {
+    color: red;
+}
+
+h3 {
+    color: grey;
+}
+
+li {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: blue;
+}
