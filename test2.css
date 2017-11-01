@@ -1,0 +1,23 @@
+body {
+    text-align: right;
+}
+
+h1 {
+    color: red;
+    opacity: 10;
+}
+
+h3 {
+    background: black;
+    color: white;
+}
+
+p {
+    color: black;
+    opacity: 1;
+    border: 10px;
+}
+
+li {
+    color: green;
+}
