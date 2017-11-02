@@ -1,19 +1,24 @@
 body {
-    text-align: right;
-    background-color: black;
+    background-color: #86626e;
+    color: #e2e4f6;
+    font-family: Verdana;
+    text-align: center;
 }
 
 .extreme {
-    background-color: tomato;
-    color: red;
+    color: #e7c8dd;
+    font-size: 0.5em;
 }
 
 .navzone {
-    border: 100000px;
-    font-size: 1px;
+    color:#dbafc1;
+    font-size: 0.75em;
 }
 
 a {
-    color: grey;
+    color:#defffc;
 }
 
+.content {
+    color: #e7c8dd;
+}
